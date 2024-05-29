@@ -20,4 +20,4 @@ def zip_directory(directory_path, zip_path):
 args = parser.parse_args()
 directory_location = args.directory
 output_location = args.output
-zip_directory(directory_location,output_location)			
+# zip_directory(directory_location,output_location)			
